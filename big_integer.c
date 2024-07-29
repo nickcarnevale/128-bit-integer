@@ -1,9 +1,3 @@
-/*
- *  CSE202: Big Integer Manipulation Program
- *  Full name: Nicholas Carnevale
- *  Full Lehigh Email Address: nic225@lehigh.edu
- */
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
