@@ -82,27 +82,3 @@ Invalid operation: sub
 2) After storing the hex digits, you will perform the operation and store the result in a big integer type variable.
 
 3) Print the operation, its operands, and the result as shown in the examples above.
-
-
-# Important Notes
-1) The case of the input hex characters can be uppercase, lowercase, or mixed case.
-
-2) You can place as many or as few whitespace characters between your output fields as whitespace will be ignored when comparing your program's output with the reference output.
-
-3) You can use any case for any letters in your output as the case of the letters are ignored when comparing your program's output with the reference output.
-
-4) You MUST use the structure and the union typedef provided in the big_integer.c starter file.
-
-5) You are NOT allowed to use any library functions or other programs to directly perform operations on big integers. Use the operations &, |, ^, <<, >>, or + on the type long.
-
-6) Remember that the right shift operation extends the sign bit for signed operands
-
-7) The add operation of the two most significant quadwords should consider the carry out from adding the two least significant quadwords and displays a message when an overflow occurs
-
-8) Do NOT modify the makefile, tests.in, tests.reference, or runTests.sh files... only modify the big_integer.c file.
-
-9) Refer to the Grading Rubric on Coursesite to maximize your score.
-
-10) To submit your code for grading, simply perform a "git push"; which will upload your changes to GitHub Classroom and run the auto-grader (run_Tests.sh). You may continue to push changes until you are informed "All tests passed" or the deadline published on Coursesite.
-
-11) Post any questions on Piazza.
