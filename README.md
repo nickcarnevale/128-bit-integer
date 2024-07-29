@@ -1,4 +1,3 @@
-# CSE202: Data Representation
 A programming project to create a new type for big integers (128 bits), store, access and manipulate big integers using bit-level and arithmetic operations on type long
 
 # Learning Objectives
